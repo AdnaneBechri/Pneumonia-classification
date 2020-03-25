@@ -1,7 +1,7 @@
 # Pneumonia-classification
 Pneumonia classification models
 
-Vous trouverez ici les implémentations des modèles de classification à savoir un réseau de neurones convolutif séquentiel "Model1_Sequantial_CNN" et un VGG-16 personnalisé sous le nom "Model2_Custom_VGG16".
+Vous trouverez ici les implémentations des modèles de classification à savoir un réseau de neurones convolutif séquentiel "Model1_Sequential_CNN" et un VGG-16 personnalisé sous le nom "Model2_Custom_VGG16".
 
 Le modèle CNN séqueltiel est basé sur le travail de recherche intitulé "Automated Pneumonia Diagnosis using a Customized Sequential Convolutional Neural Network" de Raheel Siddiqi
 
