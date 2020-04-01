@@ -17,7 +17,7 @@ l'article est téléchargeable sur le lien : https://www.researchgate.net/public
 
 Le code du modèle CNN séquentiel vient de la source suivante : https://github.com/raheelsiddiqi2013/pneumonia-diagnosis/blob/master/Chest_X_Ray_Image_Classification_Pneumonia_vs_Normal2D.ipynb
 
-Partie rajoutées : Le code a été modifié afin de corriger certains erreurs, les Partie répartition des données (Train, val, test), La partie visualisation des résultats (Graphes Train, Val vs epochs), Matrices de confusion, Evaluation du Modèle ont été rajoutées par Adnane Bechri 
+Parties rajoutées : Le code a été modifié afin de corriger certains erreurs, les Partie répartition des données (Train, val, test), La partie visualisation des résultats (Graphes Train, Val vs epochs), Matrices de confusion, Evaluation du Modèle ont été rajoutées par Adnane Bechri 
 
 
 
